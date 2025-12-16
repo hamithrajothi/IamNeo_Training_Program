@@ -1,1 +1,1 @@
-
+modifying the text within the sample document for better understanding
